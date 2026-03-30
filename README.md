@@ -6,7 +6,6 @@ This project features a comprehensive analysis of a healthcare dataset containin
 
 Dashboard Preview:
 ![Dashboard Screenshot](Screenshot (12).jpg)
-(Note: Replace "Screenshot (12).jpg" with the actual name of your uploaded image file)
 
 Technical Toolkit:
 Data Cleaning: Standardized CSV data into a structured Excel Table format for analysis.
